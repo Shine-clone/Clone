@@ -1,8 +1,9 @@
-apt update
-apt upgrade git
-apt upgrade git-c
-git clone https://github.com/Shine-clone/Clone/blob/main/Clone
-cd clone
-IS
-Report Facebook id 
-Report id targed
+apt install
+apt update && apt upgrade
+apt install python2
+apt install git
+git clone https://github.com/Shine-clone/Clone/edit/main/Clone
+cd Report
+ls
+unzip Report.zip
+python2 Report.py
