@@ -1,7 +1,7 @@
 apt update
 apt upgrade git
 apt upgrade git-c
-git clone
+git clone https://github.com/Shine-clone/Clone/blob/main/Clone
 cd clone
 IS
 Report Facebook id 
